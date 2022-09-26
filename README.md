@@ -1,14 +1,16 @@
 # Taxi-Service
 
-I implemented this project, as a demonstration of technologies that I own. 
+This is fully functioning taxi service, that allows user to manage taxi station. For example adding new cars, drivers, manufacturers etc.
+It uses Java Servlet Pages technology to display needful information and interact with user. All functionality and technologies are described below. 
 
 ## Functionality list:
-* Authorisation and authentication of user (Driver)
+* Authorization and authentication of user (Driver)
 * Adding new driver (registration)
-* Creating car manufacturers
-* Creating cars
-* Securing cars for drivers
-* Deleting cars/drivers/manufacturers/drivers from car
+* Create manufacturers
+* Create cars
+* Add drivers to car
+* Delete cars/drivers/manufacturers 
+* Delete drivers from car
 
 ## Used Technologies
 * Java (ver. 11)
